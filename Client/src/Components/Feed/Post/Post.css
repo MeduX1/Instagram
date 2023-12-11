@@ -1,0 +1,21 @@
+.Post_border {
+    border: 50px snow rgb(19, 8, 8);
+    padding-top: 130px;
+}
+.img {
+    width: 400px;
+    height: 400px;
+    padding-top: 0.75rem;
+}
+
+.Post_user{
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    margin-right: 1.5rem;
+
+}
+.post_like {
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: smaller;
+}
